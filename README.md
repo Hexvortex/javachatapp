@@ -1,2 +1,2 @@
 # javachatapp
-Chat application based using java
+Chat application using java
